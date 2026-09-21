@@ -15,7 +15,6 @@ gradle.properties.local
 # IDE
 .idea/
 *.iml
-.vscode/
 
 # Dev artifacts / reports (not part of the product)
 /_reports/
@@ -39,3 +38,5 @@ secrets.*
 *.jks
 *.keystore
 keystore.properties
+config.bat
+node_modules
